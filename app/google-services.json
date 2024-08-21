@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94289442150",
+    "project_id": "comcompanygam",
+    "storage_bucket": "comcompanygam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94289442150:android:6ce4fd0a190f8ef40604a7",
+        "android_client_info": {
+          "package_name": "com.company.gam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaPSMCmToo2Np9CP0UQRvPbJ0UHpgekWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
